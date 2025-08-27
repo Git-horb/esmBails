@@ -1,23 +1,23 @@
 {
-    "name": "@shennmine/baileys",
+    "name": "@angularsockets",
     "version": "2.0.5",
     "description": "—BaileysMod",
     "keywords": [
         "whatsapp",
-        "laurine-wabot",
+        "subzero-wabot",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
         "whatsapp-group",
-        "botwa",
-        "kyuurzy"
+        "mr-frank",
+        "subzero"
     ],
-    "homepage": "https://www.npmjs.com/package/@shennmine/baileys",
+    "homepage": "https://www.npmjs.com/package/@angularsockets",
     "repository": {
-        "url": "https://www.npmjs.com/package/@shennmine/baileys"
+        "url": "https://github.com/mrfr8nk"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "Mr Frank",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
