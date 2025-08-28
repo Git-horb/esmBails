@@ -1,23 +1,23 @@
 {
-    "name": "@angularsockets",
-    "version": "1.0.1",
-    "description": "—BaileysMod by Mr Frank",
+    "name": "esmBails",
+    "version": "0.0.1",
+    "description": "Modified by DX",
     "keywords": [
         "whatsapp",
-        "subzero-wabot",
+        "web-wabot",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
         "whatsapp-group",
-        "mr-frank",
-        "subzero"
+        "op",
+        "dx"
     ],
-    "homepage": "https://www.npmjs.com/package/@angularsockets",
+    "homepage": "https://www.npmjs.com/package/esmBails",
     "repository": {
-        "url": "https://github.com/mrfr8nk"
+        "url": "https://github.com/DAV-EX"
     },
     "license": "MIT",
-    "author": "Mr Frank",
+    "author": "DaveTech",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
