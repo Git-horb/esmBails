@@ -32,9 +32,9 @@ Actively maintained, esmBails focuses on stability, secure authentication, and r
 Install the library with your preferred package manager:  
 
 
-npm install esm-bails
+npm install esmbails
 # or
-yarn add esm-bails
+yarn add esmbails
 
  ---
 
